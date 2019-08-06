@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTf-8"?>
+<?xml-stylesheet type="text/xsl" href="products.xslt" ?>
+<products>
+  <product pid="p01">
+    <pname>Sony Bravia HD LED TV</pname>
+    <cid>c01</cid>
+    <sid>s01</sid>
+    <brand>Sony</brand>
+    <baseprice>215000</baseprice>
+    <quantity>1</quantity>
+    <description>    OLED delivers unprecedented black, contrast and colour;
+    Picture Processor X1™ Ultimate for unparalleled realism;
+    Multi-dimensional sound from the screen with Acoustic Surface Audio;
+      Find entertainment by voice with Android TV;</description>
+  </product>
+  <product pid="p02">
+    <pname>LLOYD SPLIT AIR CONDITIONER</pname>
+    <cid>c02</cid>
+    <sid>s01</sid>
+    <brand>LLOYD</brand>
+    <baseprice>26000</baseprice>
+    <quantity>1</quantity>
+    <description>1.5 Ton;
+    Two Way Swing;
+    Hidden LED Display;
+    Clean Air Filter;
+    Multi Fold Evaporator;
+	</description>
+  </product>
+  <product pid="p03">
+    <pname>LLOYD SPLIT AIR CONDITIONER</pname>
+    <cid>c02</cid>
+    <sid>s02</sid>
+    <brand>LLOYD</brand>
+    <baseprice>30000</baseprice>
+    <quantity>1</quantity>
+    <description>2 Ton;5 STAR;
+    Two Way Swing;
+    Hidden LED Display;
+    Clean Air Filter;
+    Multi Fold Evaporator;
+	</description>
+  </product>
+</products>
