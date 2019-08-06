@@ -1,0 +1,10 @@
+<!ELEMENT products(product*)>
+<!ELEMENT product(pname,cid,sid,brand,baseprice,quantity,description)>
+<!ELEMENT pname(#PCDATA)>
+<!ELEMENT cid(#PCDATA)>
+<!ELEMENT sid(#PCDATA)>
+<!ELEMENT brand(#PCDATA)>
+<!ELEMENT baseprice(#PCDATA)>
+<!ELEMENT quantity(#PCDATA)>
+<!ELEMENT description(#CDATA)>
+<!ATTLIST product pid ID #REQUIRED>
